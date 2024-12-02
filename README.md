@@ -1,16 +1,10 @@
-# myarsips
+## Aplikasi dibuat dengan ♥️ di Rumah
+Aplikasi ini mengakses data melalui API Laravel yang terhubung dengan web. Laravel berperan sebagai sistem untuk panel admin, sementara Flutter digunakan untuk membangun aplikasi mobile, sehingga memudahkan interaksi yang lancar dengan API Laravel. Silahkan kembangkan untuk kebutuhan kalian.
 
-A new Flutter project to read PDF files.
+Terima kasih.
 
-## Getting Started
+## Ini hasil akhirnya, masih banyak yang perlu dikembangkan. 💻
+![output](https://github.com/user-attachments/assets/317129d4-1d47-4363-82a5-166376053233)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dukung saya 💸
+[![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/17497ff2-bdb1-4b98-979a-8c6adf47969a)](https://saweria.co/pulpjetty)
